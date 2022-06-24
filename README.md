@@ -1,7 +1,8 @@
 # Dio-Santander-Bootcamp-FullStack-Developer
 ##
-## Acompanhamento dos Assusntos Abordados e Certificações Recebidas no Bootcamp
+## Acompanhamento dos Assuntos Abordados
+##Certificações Recebidas no Bootcamp
 ##
-Certificado
+- Certificado
 ##
-Material dos Módulo
+- Material dos Módulo
